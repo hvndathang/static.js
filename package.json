@@ -13,11 +13,14 @@
   },
   "homepage": "https://github.com/firebase/quickstart-js#readme",
   "devDependencies": {
-    "eslint": "^6.0.1",
+    "eslint": "^8.5.0",
     "eslint-plugin-promise": "^4.2.1",
-    "lerna": "^3.15.0"
+    "lerna": "^4.0.0"
   },
   "scripts": {
     "test": "scripts/test.sh"
+  },
+  "dependencies": {
+    "firebase": "^9.6.1"
   }
 }
