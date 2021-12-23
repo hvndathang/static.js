@@ -1,5 +1,6 @@
 # Javascript Quick Hosting
 
+The docs files GUI [![pages-build-deployment](https://github.com/hvndathang/static.js/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hvndathang/static.js/actions/workflows/pages/pages-build-deployment) at /docs for details
 
 Samples are organized into the following subdirectories and include README.md files with instructions for getting started:
 **1. Auth**
