@@ -13,17 +13,11 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "public": "public",
+    "public": "auth",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
     ]
   },
   "storage": {
@@ -55,7 +49,5 @@
       "enabled": true
     }
   },
-  "remoteconfig": {
-    "template": "remoteconfig.template.json"
-  }
+  "remoteconfig": {}
 }
