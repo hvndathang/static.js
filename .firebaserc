@@ -1,6 +1,6 @@
-
-
-hvn-dathang
-936941952279
-asia-southeast2
+{
+  "projects": {
+    "default": "hvn-dathang"
+  }
+}
 
