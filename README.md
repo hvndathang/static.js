@@ -47,3 +47,4 @@ See [LICENSE](LICENSE)
 
 [gh-actions]: https://github.com/hvndathangn/static.js/actions
 [gh-actions-badge]: https://github.com/hvndathangn/static.js/workflows/CI%20Tests/badge.svg
+[![Deploy to Firebase Hosting on merge](https://github.com/hvndathang/static.js/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/hvndathang/static.js/actions/workflows/firebase-hosting-merge.yml)
