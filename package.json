@@ -17,9 +17,6 @@
     "eslint-plugin-promise": "^4.2.1",
     "lerna": "^4.0.0"
   },
-  "scripts": {
-    "test": "scripts/test.sh"
-  },
   "dependencies": {
     "firebase": "^9.6.1"
   }
