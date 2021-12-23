@@ -1,9 +1,8 @@
-# Firebase Quickstarts for Javascript
+# Javascript Quick Hosting
 
-A collection of quickstart samples demonstrating the Firebase APIs using the Javascript SDK. For more information, see [firebase.google.com/docs/web/setup](https://firebase.google.com/docs/web/setup).
 
 Samples are organized into the following subdirectories and include README.md files with instructions for getting started:
- - [Auth](auth/README.md)
+**1. Auth**
    - Anonymous Auth
    - Custom Auth
    - Email and Password auth
@@ -25,16 +24,16 @@ Samples are organized into the following subdirectories and include README.md fi
    - GitHub auth using Firebase popup
    - GitHub auth using Firebase redirect
    - Multi-factor authentication with SMS(currently only available for [Google Cloud Identity Platform](https://cloud.google.com/identity-platform/docs/web/mfa) projects)
- - [Database](database/README.md)
+** 2. Database](database/README.md)**
    - Simple Social Blogging app
- - [Firestore](firestore/README.md)
+**3. Firestore(firestore/README.md)**
    - Simple Rating App
- - [Functions](functions/README.md)
+**4. Functions(functions/README.md)**
    - Send requests to a Functions server-side instance and get back results.
- - [Storage](storage/README.md)
-   - Upload a file to Firebase Storage and display its URL
- - [Messaging](messaging/README.md)
-   - Send notifications
+**5. Storage(storage/README.md)
+**   - Upload a file to Firebase Storage and display its URL
+**6. Messaging](messaging/README.md)
+**   - Send notifications
 
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
@@ -46,5 +45,5 @@ See [LICENSE](LICENSE)
 
 [![Actions Status][gh-actions-badge]][gh-actions]
 
-[gh-actions]: https://github.com/firebase/quickstart-js/actions
-[gh-actions-badge]: https://github.com/firebase/quickstart-js/workflows/CI%20Tests/badge.svg
+[gh-actions]: https://github.com/hvndathangn/static.js/actions
+[gh-actions-badge]: https://github.com/hvndathangn/static.js/workflows/CI%20Tests/badge.svg
